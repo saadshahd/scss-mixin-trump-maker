@@ -11,6 +11,13 @@ It takes a map of `key: value` or list and generates a set of **trump** classes.
 
 #### Usage
 
+##### Parameters
+  - $vairations `(map|list)`
+  - $name `(string)`
+  - $props... `(unlimited strings)`
+
+##### Examples
+
   - Use it to generate spacing trumps:
     ```scss
     $spaces: (

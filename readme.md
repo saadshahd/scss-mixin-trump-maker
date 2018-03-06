@@ -2,9 +2,11 @@
 
 It takes a map of `key: value` or list and generates a set of **trump** classes.
 
+The trump class terminology comes from [cssguidelin.es](https://cssguidelin.es/)
+
 #### Install
-  - `npm i -S scss-mixin-trump-maker`
-  - include into your SCSS code
+  1- `npm i -S scss-mixin-trump-maker`
+  2- Import it into your SCSS code:
     ```scss
     @import "~scss-mixin-trump-maker/index";
     ```
@@ -12,9 +14,9 @@ It takes a map of `key: value` or list and generates a set of **trump** classes.
 #### Usage
 
 ##### Parameters
-  - $vairations `(map|list)`
-  - $name `(string)`
-  - $props... `(unlimited strings)`
+  - **$vairations:** `(map|list)`
+  - **$name:** `(string)`
+  - **$props...**. `(unlimited strings)`
 
 ##### Examples
 

@@ -1,0 +1,29 @@
+{
+  "name": "scss-mixin-trump-maker",
+  "version": "1.0.0",
+  "description": "A scss mixin to generate handy css trumps",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/saadshahd/scss-mixin-trump-maker.git"
+  },
+  "keywords": [
+    "scss",
+    "mixin",
+    "repeater",
+    "generator",
+    "trump",
+    "maker",
+    "spacing",
+    "sizing"
+  ],
+  "author": "Saad Shahd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saadshahd/scss-mixin-trump-maker/issues"
+  },
+  "homepage": "https://github.com/saadshahd/scss-mixin-trump-maker#readme"
+}

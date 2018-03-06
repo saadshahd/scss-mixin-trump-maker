@@ -1,0 +1,9 @@
+@mixin trumps-maker($variations, $class, $props...) {
+  @each $key, $value in $variations {
+    .#{$class}-#{$key} {
+      @each $prop in $props {
+        #{$prop}: #{$value or $key} !important;
+      }
+    }
+  }
+}

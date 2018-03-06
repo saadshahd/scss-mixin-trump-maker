@@ -5,11 +5,11 @@ It takes a map of `key: value` or list and generates a set of **trump** classes.
 The trump class terminology comes from [cssguidelin.es](https://cssguidelin.es/)
 
 #### Install
-  1- `npm i -S scss-mixin-trump-maker`
-  2- Import it into your SCSS code:
-    ```scss
-    @import "~scss-mixin-trump-maker/index";
-    ```
+  1. `npm i -S scss-mixin-trump-maker`
+  1. Import it into your SCSS code:
+      ```scss
+      @import "~scss-mixin-trump-maker/index";
+      ```
 
 #### Usage
 

@@ -2,8 +2,14 @@
 
 It takes a map of `key: value` or list and generates a set of **trump** classes.
 
+#### Install
+  - `npm i -S scss-mixin-trump-maker`
+  - include into your SCSS code
+    ```scss
+    @import "~scss-mixin-trump-maker/index";
+    ```
 
-#### Examples
+#### Usage
 
   - Use it to generate spacing trumps:
     ```scss

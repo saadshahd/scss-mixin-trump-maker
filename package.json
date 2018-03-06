@@ -1,6 +1,6 @@
 {
   "name": "scss-mixin-trump-maker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A scss mixin to generate handy css trumps",
   "main": "index.scss",
   "scripts": {
